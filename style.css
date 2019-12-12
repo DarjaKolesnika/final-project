@@ -1,0 +1,77 @@
+
+body {
+    font-family: 'Karla', sans-serif;
+    background-color: rgba(145, 199, 236, 0.164);
+}
+.about-us {
+    font-family: 'Karla', sans-serif;
+}
+
+.register-form {
+    background-color: white;
+    border-radius: 30px;
+}
+
+
+.top-bar {
+    height: 350px;
+    border: 2px solid #0062cc;
+    overflow-y: auto;
+    border-radius: 20px;
+
+}
+
+.btnSubmit{
+    float: left;
+    margin-top: 1%;
+    border: none;
+    border-radius: 1.5rem;
+    padding: 0.7%;
+    background: #0062cc;
+    color: #fff;
+    font-weight: 600;
+    width: 100%;
+    cursor: pointer;
+}
+.breadcrumb, header {
+   background: none;
+}
+
+.note p {
+    font-weight: 600;
+    color: #0062cc;
+    font-size: larger;
+    
+}
+
+.card-text {
+    font-size: smaller;
+}
+
+ .msg-receive ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .msg-receive li{
+    display:block;
+    background: #0084ff;
+    color: black;
+    clear: both;
+    padding: 20px;
+    border-radius: 30px;
+    margin-bottom: 2px;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+  .list-unstyled li {
+      background: white;
+  }
+  
+  .check {
+      border: none;
+      pointer-events: none;
+      color:red;
+  }
+ 
